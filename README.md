@@ -1,4 +1,4 @@
-# CovidVision-Covid19-Detection-Model
+# CovidVision-Covid19-Detection-Model-From-Lung-Xrays
 The Covid-19 Detection from Lung X-rays project leverages state-of-the-art deep learning algorithms to analyze lung X-ray images for indicators of COVID-19 infection. 
 The Covid-19 Detection project leverages state-of-the-art deep learning algorithms to analyze lung X-ray images for indicators of COVID-19 infection. By utilizing extensive datasets and advanced image recognition technology, this initiative aims to offer precise and swift diagnoses, enhancing early detection and containment efforts. The project’s goal is to improve diagnostic accuracy and accelerate response times, crucial for managing the pandemic effectively.
 
