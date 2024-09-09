@@ -9,7 +9,7 @@ fetch('https://disease.sh/v3/covid-19/countries/india')
     document.getElementById("deaths").innerHTML = data.deaths.toLocaleString();
     document.getElementById("recovered").innerHTML = data.recovered.toLocaleString();
 });
-
+ 
 function remClass(x, str){
   x.classList.remove("bg-dark");
   x.classList.remove("text-light");
